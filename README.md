@@ -1,4 +1,4 @@
-# cospa_meshi_flutter
+# Flutterの公式チュートリアルをBLoCとRxDartで書き換える
 
 A new Flutter project.
 
